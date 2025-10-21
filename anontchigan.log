@@ -1,0 +1,3 @@
+2025-10-21 07:39:24,116 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-21 07:39:24,155 - ANONTCHIGAN - INFO - ✅ Service Groq initialisé
+2025-10-21 07:39:24,173 - ANONTCHIGAN - INFO - ✓ 394 questions chargées (mode ultra-léger)
